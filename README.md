@@ -1,7 +1,7 @@
 <h1> Transações em Blockchain </h1>
 <p>sistema que permite você enviar criptomoedas de uma carteira para outra em praticamente tempo real</p>
 <h2>algumas telas do projeto</h2>
-![header](https://user-images.githubusercontent.com/92438875/173252524-c63fba48-75ef-4dbc-876e-37877799a1bc.png)
+![header](https://user-images.githubusercontent.com/92438875/173252524-c63fba48-75ef-4dbc-876e-37877799a1bc.PNG)
 https://user-images.githubusercontent.com/92438875/173252535-4685bbb7-7361-48bb-97ff-6fded031dc2b.png
 https://user-images.githubusercontent.com/92438875/173252539-7d151fe1-910b-4341-938c-bd2ad319d790.png
 <h1>sobre o projeto</h1>
