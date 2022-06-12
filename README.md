@@ -1,9 +1,9 @@
 <h1> Transações em Blockchain </h1>
 <p>sistema que permite você enviar criptomoedas de uma carteira para outra em praticamente tempo real</p>
 <h2>algumas telas do projeto</h2>
-(https://user-images.githubusercontent.com/92438875/173252524-c63fba48-75ef-4dbc-876e-37877799a1bc.png)
-(https://user-images.githubusercontent.com/92438875/173252535-4685bbb7-7361-48bb-97ff-6fded031dc2b.png)
-(https://user-images.githubusercontent.com/92438875/173252539-7d151fe1-910b-4341-938c-bd2ad319d790.png)
+https://user-images.githubusercontent.com/92438875/173252524-c63fba48-75ef-4dbc-876e-37877799a1bc.png
+https://user-images.githubusercontent.com/92438875/173252535-4685bbb7-7361-48bb-97ff-6fded031dc2b.png
+https://user-images.githubusercontent.com/92438875/173252539-7d151fe1-910b-4341-938c-bd2ad319d790.png
 <h1>sobre o projeto</h1>
 <p>Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você possa relatar que possa me tornar um desenvolvedor melhor!
 
@@ -16,7 +16,6 @@ Além disso, você pode usar este projeto como quiser, seja para estudar, seja p
 
 É grátis!
 
-<p>você quiser dar uma olhada em algumas telas do App, elas estão aqui</p>
 
 <h1>algumas informações tecnicas sobre o projeto</h1>
 <p>criei esse sistema usando as linguagens javascript,reactJs e  solidity 
