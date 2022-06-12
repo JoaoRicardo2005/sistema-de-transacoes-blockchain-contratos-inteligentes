@@ -28,3 +28,13 @@ e conectei ao sistema da blockchain ethereum para salvar todas as transações f
 <p>para iniciar o projeto você precisa ter o react e node instalado além do solidity para os contratos inteligentes</p>
 <p>pode iniciar o projeto usando npm start na pasta client</p>
 <p>lembre-se de copiar o arquivo do gitHub</p>
+<h1>linguagens usadas</h1>
+<ul>
+  <l1>JavaScript</l1>
+  <l1>NodeJs</l1>
+  <l1>ReactJS</l1>
+  <l1>Solidity</l1>
+
+
+
+</ul>
