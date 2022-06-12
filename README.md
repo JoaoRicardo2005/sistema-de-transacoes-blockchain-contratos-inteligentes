@@ -29,12 +29,4 @@ e conectei ao sistema da blockchain ethereum para salvar todas as transações f
 <p>pode iniciar o projeto usando npm start na pasta client</p>
 <p>lembre-se de copiar o arquivo do gitHub</p>
 <h1>linguagens usadas</h1>
-<ul>
-  <l1>JavaScript</l1>
-  <l1>NodeJs</l1>
-  <l1>ReactJS</l1>
-  <l1>Solidity</l1>
-
-
-
-</ul>
+<p>JavaScript,NodeJS,ReactJs,Solidity</p>
