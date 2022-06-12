@@ -17,7 +17,7 @@ Além disso, você pode usar este projeto como quiser, seja para estudar, seja p
 É grátis!
 
 
-<h1>algumas informações tecnicas sobre o projeto</h1>
+<h1>algumas informações técnicas sobre o projeto</h1>
 <p>criei esse sistema usando as linguagens javascript,reactJs e  solidity 
 para criar os contratos inteligentes, 
 e conectei ao sistema da blockchain ethereum para salvar todas as transações feitas no sistema e fazer com que elas apareçam na tela</p>
