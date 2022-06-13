@@ -4,8 +4,8 @@
 
 ## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="projeto 1 crypto.png">
-<img align="center" src="git 2.png">
+<img align="center" src="projeto 2 crypto.png">
+<img align="center" src="crypto.png">
 
 ## 💻 Tecnologias Usadas
 <div style="display: inline_block"><br/>
