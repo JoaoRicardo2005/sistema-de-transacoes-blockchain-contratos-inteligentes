@@ -1,6 +1,6 @@
 ## 💰 Sistema de transações de criptomoedas na blockchain
 
-### Aplicação que permite você se conectar com sua carteira de criptomoedas MetaMask e transferir suas criptomoedas para outra carteira. Essa transação ficará salva na blockchain e será gerado um contrato inteligente da mesma através da rede ethereum!
+### Aplicação que permite você se conectar com sua carteira de criptomoedas MetaMask e transferir suas criptomoedas para outra carteira. Essa transação ficará salva na blockchain e será gerado um contrato inteligente da mesma através da rede ethereum. Na aplicação você pode ver as ultimas transações feitas no site
 
 ## 🖥️ Algumas Telas Do Projeto
 
