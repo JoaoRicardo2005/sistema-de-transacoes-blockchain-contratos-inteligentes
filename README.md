@@ -28,5 +28,6 @@ yarn start
 yarn dev</br>
 yarn queue
 ## Importante 💛
+### a aplicação foi totalmente feita por mim joão ricardo mas você pode usar ela do jeito que preferir! seja para estudo,apoio nos estudos ou até para ganhar dinheiro quem sabe rsrs. entre em contato em joaobarbanti7@gmail.com.
 
 
