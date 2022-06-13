@@ -4,7 +4,7 @@
 
 ## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="git.png">
+<img align="center" src="crypto.png">
 <img align="center" src="git 2.png">
 
 ## 💻 Tecnologias Usadas
